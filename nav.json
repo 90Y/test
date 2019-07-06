@@ -1,0 +1,216 @@
+[
+    {
+        "channel_id": 56,
+        "channel_name": "翡翠222",
+        "is_selected": 1,
+        "items": [
+            {
+                "id": 11,
+                "name": "翡翠",
+                "items": [
+                    {
+                        "id": 1,
+                        "image": "http://sq-image-test.oss-cn-beijing.aliyuncs.com/images/003b5ff2d07ecff8ba67abb1475fccf5.png",
+                        "name": "翡翠01-1"
+                    },
+                    {
+                        "id": 2,
+                        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/dongtai/15617254338647995.jpg",
+                        "name": "翡翠01-2"
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "name": "和田玉",
+                "items": [
+                    {
+                        "id": 3,
+                        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/dongtai/15617254338647995.jpg",
+                        "name": "和田玉"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "channel_id": 58,
+        "channel_name": "和田玉",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 13,
+                "name": "和田玉",
+                "items": [
+                    {
+                        "id": 3,
+                        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/dongtai/15617254338647995.jpg",
+                        "name": "和田玉"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "channel_id": 62,
+        "channel_name": "绿松石",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 14,
+                "name": "绿松石",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 55,
+        "channel_name": "琥珀蜜蜡",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 15,
+                "name": "琥珀",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 63,
+        "channel_name": "南红",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 16,
+                "name": "南红",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 57,
+        "channel_name": "翡翠原石",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 17,
+                "name": "翡翠原石",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 67,
+        "channel_name": "彩宝",
+        "is_selected": 1,
+        "items": [
+            {
+                "id": 20,
+                "name": "水晶",
+                "items": []
+            },
+            {
+                "id": 39,
+                "name": "钻石",
+                "items": []
+            },
+            {
+                "id": 40,
+                "name": "碧玺",
+                "items": []
+            },
+            {
+                "id": 41,
+                "name": "红蓝宝石",
+                "items": []
+            },
+            {
+                "id": 42,
+                "name": "祖母绿",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 66,
+        "channel_name": "有机宝石",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 19,
+                "name": "珍珠",
+                "items": []
+            },
+            {
+                "id": 21,
+                "name": "猛犸象牙",
+                "items": []
+            },
+            {
+                "id": 32,
+                "name": "珊瑚",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 65,
+        "channel_name": "小叶紫檀",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 25,
+                "name": "小叶紫檀",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 61,
+        "channel_name": "黄花梨",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 26,
+                "name": "黄花梨",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 59,
+        "channel_name": "核桃",
+        "is_selected": 1,
+        "items": [
+            {
+                "id": 28,
+                "name": "核桃",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 54,
+        "channel_name": "沉香",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 27,
+                "name": "沉香",
+                "items": []
+            }
+        ]
+    },
+    {
+        "channel_id": 64,
+        "channel_name": "菩提串珠",
+        "is_selected": 0,
+        "items": [
+            {
+                "id": 23,
+                "name": "菩提串珠",
+                "items": []
+            }
+        ]
+    }
+]
