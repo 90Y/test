@@ -1,1 +1,60 @@
-[{"target":{"componentName":"com.yiding.jianhuo.home.view.MainActivity","params":{"type":"3"}},"resource_type":"1","picUrl":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","image":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","name":"\u6d4b\u8bd5\u5e7f\u544a","desc":"\u6d4b\u8bd5\u5e7f\u544a001","id":1,"wh_scale":3.14},{"target":{"componentName":"com.yiding.jianhuo.web.WebActivity","params":{"url":"http:\/\/www.baidu.com"}},"resource_type":"1","picUrl":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","image":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","name":"\u6d4b\u8bd5\u5e7f\u544a","desc":"\u6d4b\u8bd5\u5e7f\u544a001","id":2,"wh_scale":3.14},{"target":{"componentName":"com.yiding.jianhuo.social.isolation.transfer.activitys.ArticleDetailMiddleActivity","params":{"layout":2,"item_id":"5d1c71913a9ddd47f544a6bf","item_type":"1"}},"resource_type":"2","picUrl":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","image":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","name":"\u6d4b\u8bd5\u5e7f\u544a","desc":"\u6d4b\u8bd5\u5e7f\u544a001","id":11,"wh_scale":3.14},{"target":{"componentType":"com.yiding.jianhuo.room.room.live.view.LiveActivity","params":{"roomId":"12"}},"resource_type":"1","picUrl":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","image":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","name":"\u6d4b\u8bd5\u5e7f\u544a","desc":"\u6d4b\u8bd5\u5e7f\u544a001","id":12,"wh_scale":3.14},{"target":{"componentType":"com.yiding.jianhuo.room.room.live.view.LiveActivity","params":{"roomId":"12"}},"resource_type":"1","picUrl":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","image":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","name":"\u6d4b\u8bd5\u5e7f\u544a","desc":"\u6d4b\u8bd5\u5e7f\u544a001","id":13,"wh_scale":3.14},{"target":{"componentType":"com.yiding.jianhuo.room.room.live.view.LiveActivity","params":{"roomId":"12"}},"resource_type":"1","picUrl":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","image":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","name":"\u6d4b\u8bd5\u5e7f\u544a","desc":"\u6d4b\u8bd5\u5e7f\u544a001","id":14,"wh_scale":3.14},{"target":{"componentType":"com.yiding.jianhuo.room.room.live.view.LiveActivity","params":{"roomId":"12"}},"resource_type":"1","picUrl":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","image":"https:\/\/jianhuo-test.nos-eastchina1.126.net\/user_dir\/apply_appraisal\/15520343005208059.jpg","name":"\u6d4b\u8bd5\u5e7f\u544a","desc":"\u6d4b\u8bd5\u5e7f\u544a001","id":15,"wh_scale":3.14}]
+[
+    {
+        "target": {
+            "componentName": "com.yiding.jianhuo.home.view.MainActivity",
+            "params": {
+                "type": "3"
+            }
+        },
+        "layout": 4,
+        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/apply_appraisal/15520343005208059.jpg",
+        "title": "测试广告",
+        "item_id": 1,
+        "item_type": 6,
+        "wh_scale": 3.14
+    },
+    {
+        "target": {
+            "componentName": "com.yiding.jianhuo.web.WebActivity",
+            "params": {
+                "url": "http://www.baidu.com"
+            }
+        },
+        "layout": 4,
+        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/apply_appraisal/15520343005208059.jpg",
+        "title": "测试广告",
+        "item_id": 2,
+        "item_type": 6,
+        "wh_scale": 3.14
+    },
+    {
+        "target": {
+            "componentName": "com.yiding.jianhuo.social.isolation.transfer.activitys.ArticleDetailMiddleActivity",
+            "params": {
+                "layout": "2",
+                "item_id": "5d1c71913a9ddd47f544a6bf",
+                "item_type": "1"
+            }
+        },
+        "layout": 4,
+        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/apply_appraisal/15520343005208059.jpg",
+        "title": "测试广告",
+        "item_id": 11,
+        "item_type": 6,
+        "wh_scale": 3.14
+    },
+    {
+        "target": {
+            "componentType": "com.yiding.jianhuo.room.room.live.view.LiveActivity",
+            "params": {
+                "roomId": "12"
+            }
+        },
+        "layout": 4,
+        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/apply_appraisal/15520343005208059.jpg",
+        "title": "测试广告",
+        "item_id": 12,
+        "item_type": 6,
+        "wh_scale": 3.14
+    }
+]
