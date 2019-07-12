@@ -1,1 +1,61 @@
-ffff
+[
+    {
+        "target": {
+            "componentName": "UITabBarController",
+            "params": {
+                "selectedIndex": "4"
+            }
+        },
+        "layout": 4,
+        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/apply_appraisal/15520343005208059.jpg",
+        "title": "测试广告",
+        "item_id": 1,
+        "item_type": 6,
+        "wh_scale": 3.14
+    },
+    {
+        "target": {
+            "componentName": "JHWebViewController",
+            "params": {
+                "urlString": "http://www.baidu.com"
+            }
+        },
+        "layout": 4,
+        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/apply_appraisal/15520343005208059.jpg",
+        "title": "测试广告",
+        "item_id": 2,
+        "item_type": 6,
+        "wh_scale": 3.14
+    },
+    {
+        "target": {
+            "componentName": "JHDiscoverVideoDetailViewController",
+            "params": {
+                "item_type": "1",
+                "item_id": "5d1c71913a9ddd47f544a6bf",
+                "entry_type": "0",
+                "entry_id": "0"
+            }
+        },
+        "layout": 4,
+        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/apply_appraisal/15520343005208059.jpg",
+        "title": "测试广告",
+        "item_id": 11,
+        "item_type": 6,
+        "wh_scale": 3.14
+    },
+    {
+        "target": {
+            "componentName": "NTESAudienceLiveViewController",
+            "params": {
+                "roomId": "12"
+            }
+        },
+        "layout": 4,
+        "image": "https://jianhuo-test.nos-eastchina1.126.net/user_dir/apply_appraisal/15520343005208059.jpg",
+        "title": "测试广告",
+        "item_id": 12,
+        "item_type": 6,
+        "wh_scale": 3.14
+    }
+]
